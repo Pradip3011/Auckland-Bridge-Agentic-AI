@@ -172,6 +172,22 @@ This repository is intended to grow as a living reference. Expected contents inc
 - audit examples,
 - and operational scenarios.
 
+agentic-control-mesh/
+├── README.md
+├── LICENSE
+├── COPYRIGHT.md
+├── BUSINESS_REQUIREMENTS.md
+├── FEATURE_SPEC.md
+├── THREAT_MODEL.md
+├── ARCHITECTURE_OVERVIEW.md
+├── GOVERNANCE_MODEL.md
+├── TEST_STRATEGY.md
+├── TEST_SCENARIOS_GHERKIN.md
+├── EU_AI_ACT_ALIGNMENT.md
+├── AUDIT_SIMULATION.md
+├── ARCHITECTURE_DIAGRAMS.md
+└── CONTRIBUTING.md
+
 The goal is clarity, not abstraction.
 
 ---
